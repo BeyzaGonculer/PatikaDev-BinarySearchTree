@@ -16,3 +16,6 @@ Patika Dev - Veri Yapıları ve Algoritmalar - Binary Search Tree Projesi
                 1   4   7    9
               0   2    6
 ```
+
+[Patika Dev](www.patika.dev)
+[Beyza Göncüler](https://app.patika.dev/beyzagonculer)
